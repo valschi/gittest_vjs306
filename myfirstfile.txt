@@ -1,3 +1,2 @@
 whatever
-this is gonna go wrong... please do go wrong -m commit changes without pulling first
-this is gonna go wrong... please do go wrong
+this is NOT gonna go wrong
